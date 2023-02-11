@@ -7,7 +7,9 @@
 
 
 --------------------------------
-cıktıpdfler klasörü:odt dosyaların  pdflerin
+# NOT:Henüz daha 3. ve 4. günlerin notları tamamen bitmemiştir.
+
+cıktıpdfler klasörü:odt dosyalarının pdf çıktıları
 
 form klasörü: ömer hocanın hazırladığı scriptler
 
