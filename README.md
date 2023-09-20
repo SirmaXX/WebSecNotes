@@ -6,14 +6,7 @@
 ### Eğitmen  :Ömer çıtak https://www.linkedin.com/in/om3rcitak/
 
 
---------------------------------
-# NOT:Henüz daha 3. ve 4. günlerin notları tamamen bitmemiştir.
 
-cıktıpdfler klasörü:odt dosyalarının pdf çıktıları
-
-form klasörü: ömer hocanın hazırladığı scriptler
-
-araclar: ctf için hazırladığım çok temel düzeydeki shell ve payloader
 
 --------------------------------
 # Payload için kaynakçalar
